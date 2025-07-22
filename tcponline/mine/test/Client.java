@@ -1,9 +1,6 @@
 package mine.test;
 
-import java.io.*;
 import java.util.*;
-import java.net.*;
-
 import util.SocketWrapper;
 
 public class Client{
